@@ -4,7 +4,7 @@ import React, {Component, useEffect} from 'react';
 // import mapboxgl from 'mapbox-gl';
 // import mapboxgl from '!mapbox-gl';
 import * as mapboxgl from 'mapbox-gl';
-import './MyMap.css';
+// import './MyMap.css';
 
 const MAPBOX_TOKEN =
   'pk.eyJ1Ijoia2Vyb2xvcyIsImEiOiJja3g2NG85dmoxZGdtMm9vMW11MXgyNDM3In0.KAWsSe9kioQfiDk7ITmzzg';
